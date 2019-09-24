@@ -1,7 +1,7 @@
 # vbs
 vb scripts
 
-current version 0.1
+current version 0.1 
 
 usage
 copy/download file
