@@ -1,6 +1,12 @@
 # vbs
 vb scripts
 
+CK.vbs
+--------
+
+Get Check Digit For UPC 
+
+
 current version 0.1 
 
 usage
